@@ -10,6 +10,8 @@
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-FORWARDER-3.0)
 
+### rarilwat
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/8RPJoz?referralCode=akash2006)
 
 ### 👨‍💻 DEVS
 
